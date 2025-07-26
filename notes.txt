@@ -1,0 +1,11 @@
+
+
+CRUD
+
+Create
+Read
+Update
+Delete
+
+60-70%==>CRUD Operation
+30-40%==>Business Logic
